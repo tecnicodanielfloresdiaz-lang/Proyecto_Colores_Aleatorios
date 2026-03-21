@@ -1,7 +1,5 @@
 # 🎨 Proyecto: Colores Aleatorios
-[🔗 Ver Demo en Vivo](https://github.com/tecnicodanielfloresdiaz-lang/Proyecto_Colores_Aleatorios.git)
-https://github.com/tecnicodanielfloresdiaz-lang/Proyecto_Colores_Aleatorios.git
-git@github.com:tecnicodanielfloresdiaz-lang/Proyecto_Colores_Aleatorios.git
+[🔗 Ver Demo en Vivo](https://tecnicodanielfloresdiaz-lang.github.io/Proyecto_Colores_Aleatorios/)
 ---
 
 
