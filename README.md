@@ -1,7 +1,6 @@
 # 🎨 Proyecto: Colores Aleatorios
 [🔗 Ver Demo en Vivo](https://tecnicodanielfloresdiaz-lang.github.io/Proyecto_Colores_Aleatorios/)
 
-https://tecnicodanielfloresdiaz-lang.github.io/Proyecto_Colores_RGB/
 ---
 
 
